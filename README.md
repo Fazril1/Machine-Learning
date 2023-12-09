@@ -1,1 +1,12 @@
-# Machine-Learning
+Tugas 1 =
+Tugas 1 =
+Tugas 1 =
+Tugas 1 =
+Tugas 1 =
+Tugas 1 =
+Tugas 1 =
+Tugas 1 =
+Tugas 1 =
+Tugas 1 = SVM
+Tugas 1 = NN
+Tugas 11 = Tensorflow rock paper scissors
