@@ -1,4 +1,4 @@
-Tugas 1 =
+Tugas 1 = pl
 
 Tugas 2 =
 
@@ -10,12 +10,10 @@ Tugas 5 = EDA dan PCA
 
 Tugas 6 = Clustering
 
-Tugas 7 =
+Tugas 7 = XGBoost
 
-Tugas 9 =
+Tugas 9 = SVM
 
-Tugas 10 = SVM
+Tugas 10 = NN
 
-Tugas 11 = NN
-
-Tugas 11 = Tensorflow rock paper scissors
+Tugas 11 = Tensorflow Rock Paper Scissors
