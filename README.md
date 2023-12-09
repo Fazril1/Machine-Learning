@@ -1,10 +1,10 @@
-Tugas 1 = pl
+Tugas 1 = House Price 
 
-Tugas 2 =
+Tugas 2 = Linear Regression dan Polynomial Regression
 
-Tugas 3 =
+Tugas 3 = Decision Tree and KNN Classifier
 
-Tugas 4 =
+Tugas 4 = Visualization Dataset
 
 Tugas 5 = EDA dan PCA
 
