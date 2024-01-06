@@ -12,8 +12,16 @@ Tugas 6 = Clustering
 
 Tugas 7 = XGBoost
 
+Tugas 8 = UTS
+
 Tugas 9 = SVM
 
 Tugas 10 = NN
 
 Tugas 11 = Tensorflow Rock Paper Scissors
+
+Tugas 13 = CNN Germany Traffic Sign
+
+Tugas 14 = CNN Modern
+
+Tugas 15 = UAS
